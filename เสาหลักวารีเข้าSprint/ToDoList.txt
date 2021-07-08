@@ -1,0 +1,9 @@
+DoD
+1. Working Software (on Production)
+2. Test (UAT) + Test report
+3. Manual (Wiki - Git)
+
+Log
+1. Sprint backlog
+2. Burndown chart
+3. Team velocity + Personal velocity
